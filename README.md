@@ -43,7 +43,10 @@
   <img src=https://github-readme-stats.vercel.app/api?username=ghdnjs18&hide=contribs,prs&show_icons=true&theme=blue-graywhite>
 </div>
 
-
+## Coding Test 📫
+<div align=center>
+  <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdnjs18>
+</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
