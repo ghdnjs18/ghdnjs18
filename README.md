@@ -9,18 +9,10 @@
   <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white>
   <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
   <img src=https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white>
-  <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
-  <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white>
-  <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
-  <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
   
   <br><br>
   <p>[DevOps]</p>
-  <img src="https://img.shields.io/badge/amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">  
-  <img src="https://img.shields.io/badge/amazon rds-61DAFB?style=for-the-badge&logo=amazonrds&logoColor=white"> 
-  <img src="https://img.shields.io/badge/amazon s3-E34F26?style=for-the-badge&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/amazon Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
-  <br>
+  <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/github action-000000?style=for-the-badge&logo=githubaction&logoColor=white">
