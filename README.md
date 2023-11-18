@@ -46,6 +46,7 @@
 ## Coding Test 📫
 <div align=center>
   <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdnjs18>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdnjs18)](https://solved.ac/ghdnjs18/)
 </div>
 
 
