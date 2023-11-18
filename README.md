@@ -47,7 +47,7 @@
 <div align=center>
   <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdnjs18>
   <br>
-  <p>[🔍 문제 코드](https://github.com/ghdnjs18/CodeTest)</p>
+  <p[🔍 문제 코드](https://github.com/ghdnjs18/CodeTest)></p>
 </div>
 
 
