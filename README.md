@@ -6,22 +6,29 @@
 ## Skills 🔨
 <div align=center>
   <p>[Backend]</p>
-  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white>
-  <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
-  <img src=https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/kafka-292929?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/elacsticsearch-20B2AA?style=for-the-badge&logo=elastic&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white">
   
   <br><br>
   <p>[DevOps]</p>
-  <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white>
-  
-  <img src="https://img.shields.io/badge/github action-000000?style=for-the-badge&logo=githubaction&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/github action-1E90FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2D8CFF?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/postman-ED8B00?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/junit-006400?style=for-the-badge&logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/jmeter-B22222?style=for-the-badge&logo=apachejmeter&logoColor=white">
   
   <br><br>
   <p>[UI/UX]</p>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
@@ -29,7 +36,6 @@
 
   <br><br>
   <p>[ETC]</p>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
@@ -38,16 +44,16 @@
 
 ## Github Status 🌱
 <div align=center>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ghdnjs18>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdnjs18">
   <br>
-  <img src=https://github-readme-stats.vercel.app/api?username=ghdnjs18&hide=contribs,prs&show_icons=true&theme=blue-graywhite>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghdnjs18&hide=contribs,prs&show_icons=true&theme=blue-graywhite">
 </div>
 
 ## Coding Test 📫
 <div align=center>
-  <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdnjs18>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdnjs18">
   <br>
-  <a href=https://github.com/ghdnjs18/CodeTest>🔍 문제 코드</a>
+  <a href="https://github.com/ghdnjs18/CodeTest">🔍 문제 코드</a>
 </div>
 
 
