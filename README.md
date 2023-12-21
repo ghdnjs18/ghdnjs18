@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/kafka-292929?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/elacsticsearch-20B2AA?style=for-the-badge&logo=elastic&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -21,6 +22,7 @@
   <img src="https://img.shields.io/badge/github action-1E90FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2D8CFF?style=for-the-badge&logo=docker&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/postman-ED8B00?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/junit-006400?style=for-the-badge&logo=junit5&logoColor=white">
   <img src="https://img.shields.io/badge/jmeter-B22222?style=for-the-badge&logo=apachejmeter&logoColor=white">
